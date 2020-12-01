@@ -53,6 +53,15 @@ export const projectsData = [
     url: 'https://imersao-react-alura-cur6nin2v.vercel.app/',
     repo: 'https://github.com/raianap76/IMERSAO-REACT-ALURA/tree/master/alura-flix', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project4.PNG',
+    title: 'Mini site para pesquisar os pacotes com destino mais barato ',
+    info: 'Mini interface web feita em react usando useState para verificar e retornar o card com o destino de pacote mais barato',
+    info2: '',
+    url: 'https://mini-site-123milhas.herokuapp.com/',
+    repo: 'https://github.com/raianap76/123-Milhas', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
