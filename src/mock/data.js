@@ -66,7 +66,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project5.PNG',
     title: 'Meu Portifolio',
-    info: 'Portifolio desenvolvido com o objetivo de compartilhar os mini projetos que faço usando as tecnologias front end, seja em react , html, css e javascript ou todas ;)',
+    info: 'Portifolioss desenvolvido com o objetivo de compartilhar os mini projetos que faço usando as tecnologias front end, seja em react , html, css e javascript ou todas ;)',
     info2: '',
     url: 'https://portifolio-dev-frontend.netlify.app/',
     repo: 'https://github.com/raianap76/Gaspy_repo', // if no repo, the button will not show up
